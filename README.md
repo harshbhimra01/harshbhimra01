@@ -30,7 +30,7 @@
 ---
 
 <!-- SKILLS -->
-## 🛠️ Skills & Tools (DevOps Focused)
+## 🛠️ Skills & Tools
 
 ### 🔧 **Core DevOps**
 <p>
@@ -49,8 +49,8 @@
 
 ---
 
-<!-- DEVOPS ANIMATION -->
-## 🚀 DevOps Workflow (Animated)
+<!-- DEVOPS -->
+## 🚀 DevOps Workflow 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/antonkomarev/github-profile-views-counter/master/preview/profile-views-counter-bright.gif" width="550">

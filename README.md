@@ -28,11 +28,6 @@
 <a href="https://leetcode.com/u/Bhimra" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>
 </p>
 
----
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQwODQ1NDMsIm5iZiI6MTc2NDA4NDI0MywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDE1MjQwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4N2Y5ZmQ0ZGZhMDMwNTFkMTFjZTIxMTI2Nzg1YzE5YTdlNTc3M2JiYjkwOTQzNWVmZDEwZmZiZDZkYTU3MzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MJN8SGkMyVIdaRWsATCI97EixpljuQa04efEFrbyBsU" />
-</p>
-
 <!-- SKILLS -->
 ## 🛠️ Skills & Tools
 

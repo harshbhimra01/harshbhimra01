@@ -53,7 +53,7 @@
 ## 🚀 DevOps Workflow 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/antonkomarev/github-profile-views-counter/master/preview/profile-views-counter-bright.gif" width="550">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW80d2x4NDl4MTNvMjljbTUweHRudjI2eW5pdzk4b24yemlycmN6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="550">
 </p>
 
 <p align="center">

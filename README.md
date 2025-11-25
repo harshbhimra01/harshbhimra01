@@ -62,29 +62,6 @@
 </p>
 
 
-
-## 🧰 Featured Projects
-
-### 🔐 **Privacy Protector – Face Detection Screen Locker**
-- Python + OpenCV  
-- Locks screen when you're away  
-- Auto-run on system startup  
-
----
-
-### ⏱️ **Pomodoro Timer – Tkinter**
-- Customizable timers  
-- Beautiful UI redesign  
-- Sound alerts + session tracking  
-
----
-
-### ☁️ **AWS Volume Operations Notes**
-- Detach / snapshot / copy / create volume  
-- Region & AZ concepts  
-- Console-based process  
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adityajl/Adityajl/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>

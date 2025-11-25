@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring DevOps Engineer | Python & Linux | Automation & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/qe7v1.gif" width="420"/>
+  <img src="https://i.imgur.com/M4W7Aj8.jpeg" width="420"/>
 </p>
 
 ---

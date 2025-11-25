@@ -2,7 +2,7 @@
 <h1 align="center">⚡ Harsh Bhimra ⚡</h1>
 <h3 align="center">Aspiring DevOps Engineer | Python & Linux | Automation & Cloud Enthusiast</h3>
 
-<p align="center">
+<p align="">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
 
@@ -14,7 +14,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
 
-<!-- ABOUT -->
+
 ## 🧩 About Me  
 - 🎓 BCA Student (3rd Year)  
 - 🐧 Linux & Bash scripting practitioner  
@@ -36,7 +36,7 @@
 </div>
 
 
-<!-- SOCIAL LINKS -->
+
 ## 🌐 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/harshbhimra/" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
@@ -48,7 +48,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
 
-<!-- SKILLS -->
+
 ## 🛠️ Skills & Tools
 
 ### 🔧 **Core DevOps**
@@ -70,7 +70,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
 
-<!-- DEVOPS -->
+
 ## 🚀 DevOps Workflow 
 
 <p align="center">
@@ -81,7 +81,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
 
-<!-- PROJECTS -->
+
 ## 🧰 Featured Projects
 
 ### 🔐 **Privacy Protector – Face Detection Screen Locker**

@@ -22,9 +22,9 @@
 <!-- SOCIAL LINKS -->
 ## 🌐 Connect With Me  
 <p align="left">
-<a href="YOUR_LINKEDIN_HERE" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-<a href="mailto:YOUR_EMAIL_HERE" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE_HERE" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>
+<a href="https://www.linkedin.com/in/harshbhimra/" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<a href="mailto:harsh.bhimra@gmail.com" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"></a>
+<a href="https://leetcode.com/u/Bhimra" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>
 </p>
 
 ---

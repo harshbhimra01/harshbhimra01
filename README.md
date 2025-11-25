@@ -84,35 +84,6 @@
 - Region & AZ concepts  
 - Console-based process  
 
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats (Dark Mode)
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshbhimra01&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshbhimra01&theme=tokyonight" />
-</p>
-
----
-
-<!-- TOP LANGUAGES -->
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbhimra01&layout=compact&theme=tokyonight&langs_count=8" width="400"/>
-</p>
-
----
-
-<!-- LEETCODE -->
-## 🧩 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Nunito&ext=heatmap" width="400"/>
-</p>
-
----
 
 <!-- SNAKE -->
 ## 🐍 Contribution Snake (Dark)

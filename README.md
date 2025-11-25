@@ -118,7 +118,7 @@
 ## 🐍 Contribution Snake (Dark)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshbhimra01/harshbhimra01/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Adityajl/Adityajl/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
 
 ---

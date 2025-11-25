@@ -10,7 +10,7 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQwODQ1NDMsIm5iZiI6MTc2NDA4NDI0MywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDE1MjQwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2OTUxYjhkNGJhYmQ1NzUzYTAyYTdhZjAzYjIxM2VlOGQzNGRjYjQ3MzNkYmE1MzMzYTc1ZTA2NWFiM2ZmZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cDtzNyIteh1U-Y9yh1Gixk78MxbRSa0B0sVfJcfIx7Q" />
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
 
@@ -31,9 +31,10 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQwODQ1NDMsIm5iZiI6MTc2NDA4NDI0MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDE1MjQwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0NWY3ZDhmYTg2MTBjMTZlNjhjZDExZWQyYWU2NDUxMDgxMWM1YzJkNmEwNGJhNjlkM2M4MmI0NDQ5OTE2YzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.USsI2hfuEwIv3iVaQnORSw9j7X-4FfLVhjwm8ua4ico" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-</p>
+<div style="text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="image" style="width: 100%; height: auto;">
+</div>
+
 
 <!-- SOCIAL LINKS -->
 ## 🌐 Connect With Me  
